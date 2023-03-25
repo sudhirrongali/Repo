@@ -16,5 +16,6 @@ public class App
   
         // Calling Predicate method
         System.out.println(lesserthan.test(10)); 
+        System.out.println("Now testing with app file");
     }
 }
