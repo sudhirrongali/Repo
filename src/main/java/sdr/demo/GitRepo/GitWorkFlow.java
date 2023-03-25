@@ -22,6 +22,5 @@ public class GitWorkFlow {
 		// TODO Auto-generated method stubs
 		System.out.println("Implementing Git changes");
 		System.out.println("checked-in via making changes in origin-configure paths"); 
-		System.out.println("Open after a week");
 	}
 }
